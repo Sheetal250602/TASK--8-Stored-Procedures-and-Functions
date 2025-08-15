@@ -1,5 +1,5 @@
 # Task 8: STORED PROCEDURES AND FUNCTIONS
-# Using Database 'COMPANY' and table 'EMPLOYEES' for 'Stored Preocedure and Functions' by using MySQL Workbench.
+# Using Database 'COMPANY' and table 'EMPLOYEES' for 'Stored Procedure and Functions' by using MySQL Workbench.
 
 CREATE DATABASE COMPANY;
 USE COMPANY;
